@@ -1,0 +1,106 @@
+.profile {
+  width: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+}
+
+.profile_name {
+  text-align: center;
+  font-size: 30px;
+}
+
+.profile_job {
+  color: red;
+  font-weight: 400;
+}
+.profile_discription {
+  text-align: center;
+  display: block;
+  background: bisque;
+}
+.box {
+  width: 300px;
+  /* height: 100px; */
+  background-color: cadetblue;
+  margin: 30px;
+  padding: 40px;
+  border: 1px solid black;
+  border-radius: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-size: 15px;
+  color: whitesmoke;
+  box-shadow: 10px 15px 5px 5px black;
+}
+.container {
+  width: 800px;
+}
+
+.header {
+  width: 100%;
+  height: 150px;
+  background-color: aquamarine;
+}
+.left_menu {
+  width: 20%;
+  height: 400px;
+  background-color: rgb(87, 87, 245);
+  display: inline-block;
+  vertical-align: top;
+}
+.right {
+  width: 80%;
+  height: 400px;
+  background-color: coral;
+  display: inline-block;
+}
+.footer {
+  width: 100%;
+  height: 100px;
+  background-color: grey;
+}
+
+.blog_container {
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.title {
+  width: 800px;
+  float: left;
+  height: 300px;
+  background-color: #eee;
+}
+.p1_profile {
+  display: inline-block;
+}
+
+.p1_profile_des {
+  display: inline-block;
+}
+.p1_profile_name {
+}
+.p1_profile_ontime {
+}
+.img {
+  width: 200px;
+  height: 300px;
+  float: left;
+  background-color: burlywood;
+}
+
+.navbar li {
+  display: inline-block;
+}
+.navbar li a {
+  font-size: 16px;
+  text-decoration: none;
+  background-color: rgb(250, 196, 196);
+  padding: 10px;
+  border-right: 4px solid rgb(220, 194, 253);
+  border-radius: 10px;
+}
